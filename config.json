@@ -1,0 +1,180 @@
+{
+    "dedicatedServerId": "nitrado_ni1256671_1",
+    "region": "EU-FFM",
+    "game": {
+        "name": "Taco's Freedom Fighters Enhanced // Join discord.gg/GbjaKHF9V",
+        "password": "",
+        "passwordAdmin": "tacotime",
+        "scenarioId": "{64B2F8D8059EE270}Missions/FreedomFighters/Everon.conf",
+        "maxPlayers": 10,
+        "visible": true,
+        "gameProperties": {
+            "serverMaxViewDistance": 1600,
+            "networkViewDistance": 500,
+            "serverMinGrassDistance": 50,
+            "disableThirdPerson": false,
+            "battlEye": true,
+            "VONDisableUI": false,
+            "VONDisableDirectSpeechUI": false,
+            "VONCanTransmitCrossFaction": false
+        },
+        "mods": [
+            {
+                "modId": "5D6EA74A94173EDF",
+                "name": "Enfusion Database Framework"
+            },
+            {
+                "modId": "5D6EBC81EB1842EF",
+                "name": "Enfusion Persistence Framework"
+            },
+            {
+                "modId": "595F2BF2F44836FB",
+                "name": "RHS - Status Quo"
+            },
+            {
+                "modId": "1337C0DE5DABBEEF",
+                "name": "RHS - Content Pack 01"
+            },
+            {
+                "modId": "BADC0DEDABBEDA5E",
+                "name": "RHS - Content Pack 02"
+            },
+            {
+                "modId": "CAFEBEEFF0CACC1A",
+                "name": "Freedom Fighters"
+            },
+            {
+                "modId": "66D97E047E2C8CC0",
+                "name": "FF-BuildableFactionAntenna"
+            },
+            {
+                "modId": "663AA9838B41DE72",
+                "name": "FF - FPV drone integration"
+            },
+            {
+                "modId": "65B03287FEB20404",
+                "name": "RHS to Arsenal"
+            },
+            {
+                "modId": "66C543CBC160D99D",
+                "name": "Modern Equipments"
+            },
+            {
+                "modId": "65AD7D4099944EBD",
+                "name": "ACE Magazine Repack Dev"
+            },
+            {
+                "modId": "66DE15760F187E40",
+                "name": "FF-WhereIsTheBattle"
+            },
+            {
+                "modId": "5E92F5A4A1B75A75",
+                "name": "Player Map Markers"
+            },
+            {
+                "modId": "61ED28EAECF0D304",
+                "name": "Solo Push-Pull"
+            },
+            {
+                "modId": "60FB19EB2B5D119C",
+                "name": "Civilian Clothing Mod"
+            },
+            {
+                "modId": "6847295A719282CD",
+                "name": "FF Washing Machine"
+            },
+            {
+                "modId": "64722DADC53CB75E",
+                "name": "NV-System"
+            },
+            {
+                "modId": "65F93D3655B7D63C",
+                "name": "Northcom - Retro Night Vision"
+            },
+            {
+                "modId": "66D62E8218A23584",
+                "name": "FFRetroNightVision"
+            },
+            {
+                "modId": "669D02FA36538C3C",
+                "name": "Better Stamina"
+            },
+            {
+                "modId": "65117E01FC88FE08",
+                "name": "RTG Armbands"
+            },
+            {
+                "modId": "645F08FA9E7CDEDE",
+                "name": "Attachment Framework"
+            },
+            {
+                "modId": "65EF16962A8D9840",
+                "name": "Press Gear - Expanded"
+            },
+            {
+                "modId": "66DE626151B4EEA7",
+                "name": "FF-PressGearExpanded"
+            },
+            {
+                "modId": "65AD60E204191D37",
+                "name": "Realistic Combat Drones"
+            },
+            {
+                "modId": "65B007413A813417",
+                "name": "FPV drones"
+            },
+            {
+                "modId": "617AC5E57EF1D9E3",
+                "name": "WZ Vehicles"
+            },
+            {
+                "modId": "5965550F24A0C152",
+                "name": "Where Am I"
+            },
+            {
+                "modId": "5B0D1E4380971EBD",
+                "name": "COALITION Squad Interface"
+            },
+            {
+                "modId": "665AABC9776468B4",
+                "name": "Groupless CSI"
+            },
+            {
+                "modId": "665AC4328A9856F3",
+                "name": "Loot Transfer System"
+            },
+            {
+                "modId": "606B100247F5C709",
+                "name": "Bacon Loadout Editor"
+            },
+            {
+                "modId": "5AAAC70D754245DD",
+                "name": "Server Admin Tools"
+            },
+            {
+                "modId": "64C914B4016D38B1",
+                "name": "Simple 3PP Crosshair"
+            },
+            {
+                "modId": "5D0551624969C92E",
+                "name": "Zeliks Character"
+            }
+        ],
+        "crossPlatform": true,
+        "admins": [
+            "706ee163-468a-409a-a5b8-96640a3d41dc"
+        ],
+        "supportedPlatforms": [
+            "PLATFORM_PC"
+        ]
+    },
+    "operating": {
+        "lobbyPlayerSynchronise": true,
+        "joinQueue": {
+            "maxSize": 0
+        },
+        "slotReservationTimeout": 60,
+        "disableAI": false,
+        "aiLimit": -1
+    }
+}
